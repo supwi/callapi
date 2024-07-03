@@ -17,9 +17,9 @@ This tool allow you change any callerid you want and place calls. All you need t
 <div style="text-align: center;">
   <div>
     <a href="https://t.me/supwind">
-      <img src="https://img.shields.io/badge/Chat with Owner-👤-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
+      <img src="https://img.shields.io/badge/Buy now-👤-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
     </a>
-    <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Buy now</p>
+    <p style="font-weight: bold; font-size: 16px; margin: 5px 0;"></p>
   </div>
 </div>
 
