@@ -1,121 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Call Spoofing Awareness</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #77aaff 3px solid;
-        }
-        header a {
-            color: #fff;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
-        }
-        header ul {
-            padding: 0;
-            list-style: none;
-        }
-        header li {
-            float: left;
-            display: inline;
-            padding: 0 20px 0 20px;
-        }
-        header #branding {
-            float: left;
-        }
-        header #branding h1 {
-            margin: 0;
-        }
-        header nav {
-            float: right;
-            margin-top: 10px;
-        }
-        .content {
-            padding: 20px;
-            background: #fff;
-            margin-top: 20px;
-        }
-        .telegram-button {
-            display: inline-block;
-            background-color: #0088cc;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 20px;
-        }
-        .telegram-button img {
-            vertical-align: middle;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div id="branding">
-                <h1>Call Spoofing Awareness</h1>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<p align="center">
+        <img src="https://t4.ftcdn.net/jpg/04/63/63/59/360_F_463635935_IweuYhCqZRtHp3SLguQL8svOVroVXvvZ.jpg" alt="Logo" width="150" style="border-radius: 50%;">
+    </p>
 
-    <div class="container content">
-        <h2>What is Call Spoofing?</h2>
-        <p>
-            Call spoofing, also known as caller ID spoofing, is a technique that allows a caller to falsify the information displayed on the recipient's caller ID display. This means that when a call is received, the recipient's phone will show a different caller ID, which can be a different phone number or even a fake name.
-        </p>
 
-        <h2>Legitimate Uses of Call Spoofing</h2>
-        <p>
-            Some individuals use call spoofing services to protect their privacy. For example, they may want to keep their personal phone number hidden when making business-related calls or when communicating with strangers they met online.
-        </p>
 
-        <h2>Illegitimate Uses of Call Spoofing</h2>
-        <p>
-            Criminals often use call spoofing to impersonate trusted entities, such as banks, government agencies, or well-known companies. They may pretend to be someone the recipient trusts in an attempt to trick them into providing sensitive information, such as credit card numbers or social security numbers.
-        </p>
+<h1>Call Api</h1>
+We provide the best spoofing experience for our customers
+<hr>
 
-        <h2>Risks and Implications</h2>
-        <p>
-            Call spoofing is frequently used in various forms of fraud and social engineering schemes. For instance, scammers might impersonate tech support personnel and claim to fix non-existent computer issues, demanding payment for their services.
-        </p>
+<div style="text-align: center;">
+This tool allow you change any callerid you want and place calls. All you need to do is buy the credits before useing our tool.
+</div>
 
-        <h2>Protecting Against Call Spoofing</h2>
-        <p>
-            To protect against call spoofing and potential scams, it's essential to exercise caution when receiving calls, especially if the caller asks for personal or financial information. If you receive a suspicious call, consider verifying the caller's identity through official channels, such as calling back using a known and trusted phone number. Additionally, there are call-blocking apps and services that can help filter out unwanted and potentially fraudulent calls.
-        </p>
+## [+] Follow Me :
 
-        <a class="telegram-button" href="https://t.me/supwi">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20">
-            Join us on Telegram
-        </a>
-    </div>
-</body>
-</html>
+<div style="text-align: center;">
+  <div>
+    <a href="https://t.me/supwind">
+      <img src="https://img.shields.io/badge/Chat with Owner-👤-blue?style=for-the-badge&logo=telegram" alt="Telegram Owner">
+    </a>
+    <p style="font-weight: bold; font-size: 16px; margin: 5px 0;">Buy now</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+How to Use this tool?
+You will see the web interface after purchase we will provide you login details.
+
+
+## License
+
+This project is licensed under the MIT License. Please review the license before using or contributing to the project.
+
+Feel free to reach out for any inquiries or assistance regarding the usage of custom sender ID for calls.
+
+<hr>
+Spoofing is when a caller deliberately falsifies the information transmitted to your caller ID display to disguise their identity. Scammers often use neighbor spoofing so it appears that an incoming call is coming from a local number, or spoof a number from a company or a government agency that you may already know and trust. If you answer, they use scam scripts to try to steal your money or valuable personal information, which can be used in fraudulent activity.
+The core concept of call spoofing may be simple, but scammers continue to evolve scams using spoofed numbers. Some of the most common call spoofing scams targeting consumers today include: 
+
+Neighbor Spoofing
+This technique has become ubiquitous – scammers will use a telephone number that features the recipient’s local area code, sometimes even mirroring the first several digits of the recipient’s own number. Neighbor spoofing has historically been effective as it lures Americans into a false sense of familiarity with the number displayed on caller ID, making it more likely they will answer the call.  
+
+Impersonation Spoofing
+Fraudsters will spoof numbers belonging to known contacts or reputable organizations to execute scams such as: 
+
+Bank Account Scams: Posing as bank representatives to extract private financial data.  
+Government Scams: Posing as government officials to acquire sensitive personal information. 
+Unpaid Tax Scams: Posing as IRS employees demanding payment for fictitious tax bills and threatening legal consequences. 
+Tech Support Scams: Posing as IT providers scanning for issues with the recipient’s computer in an attempt to install malware or steal information. 
+
+Dont forget to purchase this amazing tool at your affordable rate !!
