@@ -1,0 +1,86 @@
+
+<!-- This is only dummy code, contact me to get our service !!  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dummy Call Spoofing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .container h1 {
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #333;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dummy Call Spoofing</h1>
+        <div class="form-group">
+            <label for="callerId">Caller ID:</label>
+            <input type="text" id="callerId" placeholder="Enter caller ID">
+        </div>
+        <div class="form-group">
+            <label for="recipient">Recipient Number:</label>
+            <input type="text" id="recipient" placeholder="Enter recipient number">
+        </div>
+        <div class="form-group">
+            <label for="message">Message:</label>
+            <input type="text" id="message" placeholder="Enter your message">
+        </div>
+        <div class="form-group">
+            <button class="btn" onclick="makeCall()">Make Call</button>
+        </div>
+    </div>
+
+    <script>
+        function makeCall() {
+            const callerId = document.getElementById('callerId').value;
+            const recipient = document.getElementById('recipient').value;
+            const message = document.getElementById('message').value;
+
+            alert(`Making call from ${callerId} to ${recipient} with message: ${message}`);
+        }
+    </script>
+</body>
+</html>
